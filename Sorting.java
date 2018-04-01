@@ -1,4 +1,4 @@
-package OOP;
+//package OOP; you can remove it or insert your pakage name here
 public class Sorting {
     public static void main(String args[]){
         int array [] = {1,4,5,3,8,9,0,5,6,2,7};
